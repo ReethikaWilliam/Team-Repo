@@ -3,23 +3,39 @@
   margin: 35px 50px 10px 100px;
   font-family: Georgia, 'Times New Roman', Times, serif;
 }
-.card{
+.card1{
   margin: 30px 110px 40px 100px;
   font-family: Georgia, 'Times New Roman', Times, serif;
   
 }
-
 
 .card2{
   font-family: Georgia, 'Times New Roman', Times, serif;
   margin: 10px 110px 35px 100px;
 }
 
-.form-control{
+#inputGroupFile02{
   font-family: Georgia, 'Times New Roman', Times, serif;
  
 }
-.button{
-  margin-left: 90%;
-  font-family: Georgia, 'Times New Roman', Times, ser
+.card3{
+  margin-left: 7%;
+  margin: 10px 110px 35px 100px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  
+}
+.form-check{
+  margin-left: 7.5%;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+#button-sumbit{
+    margin-left: 50%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color:#652ada;
+    font-size: 20px;
+
+}
+#button-sumbit:hover{
+  background-color: rgb(186, 100, 170);
 }
